@@ -1,4 +1,4 @@
-<h1 align="center">Hola me llamo Franco</h1>
+<h1 align="center">Hola! mi nombre es  <br>Franco</br></h1>
 <h3 align="center">Amante del desarrollo de Software y la Tecnologia</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Rust**
