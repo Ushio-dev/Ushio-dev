@@ -1,7 +1,7 @@
 <h1 align="center">Hola! mi nombre es Franco</h1>
 <h3 align="center">Amante del desarrollo de Software y la Tecnologia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Rust**
+- 🌱 Actualmente estoy aprendiendo **Docker**
 
 - 📫 Como contactarme: **fran14korn@live.com**
 
