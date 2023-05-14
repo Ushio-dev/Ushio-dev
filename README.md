@@ -1,7 +1,7 @@
 <h1 align="center">Hola! mi nombre es Franco</h1>
 <h3 align="center">Amante del desarrollo de Software y la Tecnologia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Go**
+- 🌱 Actualmente estoy aprendiendo **Kubernetes**
 
 - 📫 Como contactarme: **francoav.dev@gmail.com**
 
