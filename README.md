@@ -1,4 +1,4 @@
-<h1 align="center">Hola! y Bienvenid@\n mi nombre es Franco</h1>
+<h1 align="center">Hola! y Bienvenid@<br/> mi nombre es Franco</h1>
 <h3 align="center">Amante del desarrollo de Software y la Tecnologia</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Kubernetes**
