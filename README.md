@@ -2,6 +2,8 @@
 
 <br>
 
+#Sobre Mi:
+
 - Desarrollador de software.
 - Estudiante de Ingenieria en Informatica.
 
