@@ -5,7 +5,7 @@
 - Desarrollador de software.
 - Estudiante de Ingenieria en Informatica.
 
-<br><br>
+<br>
 
 - **Lenguajes**:
   
