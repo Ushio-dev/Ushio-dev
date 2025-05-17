@@ -1,6 +1,6 @@
 <h1 align="center">Hola! y Bienvenid@<br/>Me llamo Franco</h1>
 
-<br><br>
+<br>
 
 # Sobre Mi:
 
